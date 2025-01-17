@@ -23,7 +23,7 @@
 
 <!-- GitHub Stats -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yujinlee&count_private=true&show_icons=true&theme=solarized-light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=euzin3&count_private=true&show_icons=true&theme=solarized-light)
 
 <br><br>
 
@@ -50,6 +50,6 @@
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euzin3&layout=compact)
 
-<br><br>
+<br>
 
 </div>
