@@ -12,10 +12,12 @@
 - (Mar. 2022 - Present) Convergence Major in Electronics and Information, Kyungpook National University
 
 
-## Interest 👀
-- Embedded Software
-- Vehicle Control
-- Software Development
+## Interest 👀  
+- Vehicle Networks
+- Automotive Electronic Control Units (ECUs)
+- Controller Software Development
+- Autonomous Driving
+
 
 <br>
 
