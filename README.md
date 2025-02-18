@@ -9,7 +9,6 @@
 
 ## Education 👩‍💻
 - (Mar. 2022 - Present) Bachelor's Degree in Electronics Engineering, Kyungpook National University
-- (Mar. 2022 - Present) Convergence Major in Electronics and Information, Kyungpook National University
 
 
 ## Interest 👀  
